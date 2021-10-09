@@ -8,8 +8,5 @@ Next, run `bash install.sh numbers` where `numbers` is the list of numbers in ea
 e.g.
 `bash install.sh 1,3,4`
 
-Install all:
-`bash install.sh all`
-
 Numbers can be found in each directory:
 ![example](https://img.editid.xyz/wOvtgVaF.png)
