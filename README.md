@@ -12,4 +12,4 @@ Install all:
 `bash install.sh all`
 
 Numbers can be found in each directory:
-![example](https://img.editid.xyz/wOvtgVaF.png)
+![example](https://img.editid.me/wOvtgVaF.png)
